@@ -23,7 +23,7 @@ class Database:
         self.heading.place(width=1370,height=40,x=0,y=0)
 
         # Back Button to return to home page
-        self.back_button = Button(master, text="← Back", font=("Arial", 10, "bold"), bg="#FF0000", fg="#FFFFFF",
+        self.back_button = Button(master, text="← Back", font=("Arial", 10, "bold"), bg="white", fg="black",
                                   command=self.go_back)
         self.back_button.place(x=10, y=10)  # Position the back button
 
