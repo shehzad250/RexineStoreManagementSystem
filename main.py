@@ -245,7 +245,7 @@ class Application :
         # Templates for the bill (ESCAPE SEQUENCE CHARACTERS '\')
         company = "\t\t\tRuby Fashion Corporation Pvt. Ltd.\n"
         address = "\t\t\tWadala Antop Hill, Mumbai, 400037, Maharahtra.\n"
-        phone = "\t\t\tContact : 8452086250"
+        phone = "\t\t\tContact : XXXX086XXX"
         dt = "\t\t\t\tDate :" + str(formatted_date) +"\n\n\n"
         sample = "\t\t\t\t\t\t____INVOICE____"
         
